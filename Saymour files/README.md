@@ -59,4 +59,6 @@ In `pi/`, run:
 python yolo_detect.py --model =best_ncnn_model --source= picamera0 --resolution 1280x720
 ```
 
+Video demonstrating the project:
+https://lauedu74602-my.sharepoint.com/:f:/g/personal/reve_fawaz_lau_edu/Et_VftWlTZFOqTMUs1j_VHIBdN9Es_yKdNu_KZM-Pt1kVQ?e=cmsPPF
 
