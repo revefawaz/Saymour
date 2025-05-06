@@ -59,12 +59,4 @@ In `pi/`, run:
 python yolo_detect.py --model =best_ncnn_model --source= picamera0 --resolution 1280x720
 ```
 
-Example:
-
-```bash
-python yolo_detect.py --resolution 640x480 --source 0
-```
-
----
-
 
