@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "mce/Spring 2025/MSD II/project/esp_wav_player"
+		},
+		{
+			"name": "esp_fuzzy",
+			"path": "esp_fuzzy"
+		},
+		{
+			"name": "esp_model",
+			"path": "esp_model"
+		}
+	],
+	"settings": {}
+}
